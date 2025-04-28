@@ -49,6 +49,10 @@ nav a{
   border-radius: 80px;
   font-family: "Rock Salt", cursive;
 }
+footer{
+  text-align: center;
+  margin-top: 150px;
+}
 @media(width <= 480px){
   nav{
       flex-direction: column;
